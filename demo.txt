@@ -1,2 +1,2 @@
-
 This is testing file for git demo merging tech
+this is new line added to one another
